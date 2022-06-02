@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 5bukv
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A recreating of TINKOFF 5bukv game (wordle)
 
 ## Available Scripts
 
