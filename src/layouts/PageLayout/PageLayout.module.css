@@ -1,0 +1,16 @@
+.layout {
+  background-color: #1c1c1e;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+/* #fedc30   for opened square letters yellow , and for border of squares */
+/* #5f605e   for grey square letters  , and for letter inside the white and yellow square*/
+/* #d9d9d9  color for all letter */
+/* #f1f3f4  color for square of letters is in the word but out of the right place */
+.children {
+  width: 100%;
+}

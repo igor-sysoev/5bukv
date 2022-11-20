@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 25px 0 30px 0;
+  width: 100%;
+}
+.header_logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.header_logo div {
+  text-align: center;
+  background-color: #fedc30;
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  margin: 0.5px;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  color: #d9d9d9;
+}
+.icons span {
+  display: flex;
+  flex-direction: row;
+  margin: 3px;
+  font-size: 22px;
+}
